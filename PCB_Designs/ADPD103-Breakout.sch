@@ -5032,7 +5032,9 @@ Attribution-NonCommercial-
 ShareAlike 3.0 Unported </text>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="63.5" y="48.26"/>
+<instance part="U$1" gate="G$1" x="63.5" y="48.26" smashed="yes">
+<attribute name="VALUE" x="22.86" y="66.04" size="3.81" layer="96"/>
+</instance>
 <instance part="JP1" gate="G$1" x="17.78" y="38.1"/>
 <instance part="JP3" gate="G$1" x="116.84" y="55.88" rot="MR0"/>
 <instance part="LOGO1" gate="G$1" x="30.48" y="88.9"/>
